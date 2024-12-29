@@ -13,18 +13,28 @@ AluraBooks é uma plataforma online do grupo Alura, especializada na venda de li
 
 
 🎡 Carrossel de Livros
+
+
 Um carrossel dinâmico que exibe os principais livros técnicos, permitindo ao usuário visualizar uma seleção de produtos de forma prática.
 
 🏷️ Cards de Livros
+
+
 Cada livro é apresentado em um card detalhado, mostrando informações como título, autor, preço e uma breve descrição.
 
 🍔 Menu Hambúrguer
+
+
 O site conta com um menu hambúrguer, ideal para dispositivos móveis, permitindo uma navegação compacta e intuitiva.
 
 📱 Mobile-First
+
+
 Desenvolvido com uma abordagem mobile-first, o design foi projetado para garantir uma ótima experiência em dispositivos móveis e desktops.
 
 💻 Responsividade
+
+
 O layout se adapta perfeitamente a diferentes tamanhos de tela, tornando o site acessível em celulares, tablets e computadores.
 
 
@@ -64,12 +74,18 @@ Acesse o site de qualquer dispositivo, seja um celular, tablet ou computador, pa
 
 
 📱 Mobile-First
+
+
 A principal abordagem foi o mobile-first, que garantiu que o site fosse otimizado para dispositivos móveis, ajustando o design para diferentes tamanhos de tela.
 
 🎨 Design Responsivo
+
+
 O uso de media queries e a adaptação do layout para telas grandes e pequenas foram essenciais para tornar o site acessível em diversos dispositivos.
 
 💡 Aprendizado
+
+
 Aprendi como criar layouts responsivos e a importância da abordagem mobile-first para SEO e acessibilidade, além de reforçar meu conhecimento em HTML, CSS e JavaScript para desenvolver interfaces dinâmicas e interativas.
 
 
