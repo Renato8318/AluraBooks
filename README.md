@@ -8,7 +8,12 @@ AluraBooks é uma plataforma online do grupo Alura, especializada na venda de li
 
 
 
+
+
 🚀 Funcionalidades
+
+
+
 
 
 
